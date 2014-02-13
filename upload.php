@@ -1,6 +1,8 @@
 <?php
 
-//Fabyo Guimaraes
+//Adilmar C Dantas
+
+
 
 //se existir o arquivo
 if(isset($_FILES["arquivo"])){
